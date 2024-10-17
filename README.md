@@ -15,4 +15,4 @@ Technologies Utilized:
 📊Power BI: Used to create interactive dashboards and data visualizations.
 👩‍💻MySQL: Managed and queried the database efficiently.
 📊Tableau: Created advanced data visualizations for deeper insights.
-👩‍💻Python: Conducted data analysis and automation of processes.
+
